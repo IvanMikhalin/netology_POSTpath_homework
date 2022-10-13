@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/i7gepjlkwoxp7unu?svg=true)](https://ci.appveyor.com/project/IVAN37853/netology-postpath-homework)
+[![Build status](https://ci.appveyor.com/api/projects/status/fet9lim68cp2nv9x?svg=true)](https://ci.appveyor.com/project/IVAN37853/netology-postpath-homework)
